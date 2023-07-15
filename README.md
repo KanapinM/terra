@@ -14,7 +14,7 @@
 
 - TypeSctipt
 - React
-- Styled Modules
+- Styled Components
 - speech recognizer
 - Rest Api
 
